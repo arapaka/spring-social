@@ -1,0 +1,7 @@
+
+spring:
+  social:
+    facebook:
+      app-id: ${app-id} # facebook appId
+      app-secret: ${app-secret} #Facebook secret Id
+
